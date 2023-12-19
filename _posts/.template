@@ -22,6 +22,7 @@ image:  # URL to a hero image associated with the post (e.g., /assets/page-pic.j
 
 # post specific author data if different from what is set in _config.yml 
 author:
+  name:
 
 comments: false  # disable comments on this post
 ---
