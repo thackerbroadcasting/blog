@@ -6,12 +6,12 @@
       "command": "sudo apt-get install bundler -y"
     },
     {
-      "command": "bundle config set --local clean 'true'",
+      "command": "Prep Bundle for clean install",
       "name": "bundle config set --local clean 'true'"
     },
     {
-      "command": "bundle install",
-      "name": "b"
+      "command": "Install Bundle",
+      "name": "bundle install"
     }
   ],
 
