@@ -4,6 +4,14 @@
     {
       "name": "Install Bundler",
       "command": "sudo apt-get install bundler -y"
+    },
+    {
+      "command": "bundle config set --local clean 'true'",
+      "name": "bundle config set --local clean 'true'"
+    },
+    {
+      "command": "bundle install",
+      "name": "b"
     }
   ],
 
